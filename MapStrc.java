@@ -1,5 +1,3 @@
-package com.ak.tutorial;
-
 import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.Map;

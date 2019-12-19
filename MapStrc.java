@@ -30,7 +30,7 @@ public class MapStrc {
 		}
 
 		System.out.println("loadFactor = "+lf+"\nthreshold = "+th
-				+"\ntotal #buckets = capacity =  "+tblLength  
+				+"\ntotal #buckets = capacity =  "+tblLength 
 				+"\ntotal #elements =  "+size
 				+"\n\t#buckets used = "+(tblLength-bkt)
 				+"\n\t#collisions="+(size-tblLength+bkt));
